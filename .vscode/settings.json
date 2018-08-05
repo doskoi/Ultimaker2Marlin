@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/Sheng/.platformio/penv/bin:/Users/Sheng/.platformio/penv:/usr/local/heroku/bin:/Users/Sheng/anaconda/bin:/usr/local/sbin:/usr/local/bin:/Users/Sheng/.rbenv/shims:/Users/Sheng/.rbenv/bin:/usr/local/opt/pyenv/shims:/usr/local/opt/pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}

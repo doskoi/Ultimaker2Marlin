@@ -13,3 +13,8 @@ Marlin/Visual Micro/Upload.vmps.xml
 Marlin/Visual Micro/.Marlin.vsarduino.h
 Marlin/Visual Micro/Compile.vmps.xml
 Marlin/Visual Micro/Configuration.Debug.vmps.xml
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
