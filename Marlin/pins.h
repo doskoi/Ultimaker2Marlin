@@ -1237,8 +1237,8 @@
 #define LCD_PINS_D7                 6   // PH3
 
 //buttons are directly attached
-#define BTN_EN1                     40  // PG1
-#define BTN_EN2                     41  // PG0
+#define BTN_EN1                     41  // PG1
+#define BTN_EN2                     40  // PG0
 #define BTN_ENC                     19  // PD2 / RXD1, the click
 
 #define BLEN_C                      2
