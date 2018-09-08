@@ -483,8 +483,8 @@ const bool Z_ENDSTOPS_INVERTING = true; // set to true to invert the logic of th
 #define PLA_PREHEAT_HPB_TEMP 55
 #define PLA_PREHEAT_FAN_SPEED 0     // Insert Value between 0 and 255
 
-#define ABS_PREHEAT_HOTEND_TEMP 240
-#define ABS_PREHEAT_HPB_TEMP 90
+#define ABS_PREHEAT_HOTEND_TEMP 230
+#define ABS_PREHEAT_HPB_TEMP 70
 #define ABS_PREHEAT_FAN_SPEED 0     // Insert Value between 0 and 255
 
 //LCD and SD support
